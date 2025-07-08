@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ffa1bd1fcfbbd8ab7a4b4ebcf616f8d2634c02cd7f893f6b6d67d05557a28e9f
-size 199
+{
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "binance-api-node": "^0.12.9",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "pg": "^8.16.3",
+    "technicalindicators": "^3.1.0"
+  }
+}
